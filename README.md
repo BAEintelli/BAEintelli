@@ -3,8 +3,8 @@ Hello!
 -     language :  python, scala
 -     skill : machine learning, deeplearning
 -      
-- 
-- 💞️ WORK EXPRIENCE
+- s
+- 💞️ WORK EXPRIENCE 
 -   EPOPCON : 머신러닝연구 및 데이터분석(2020.07 ~ )
      - 이커머스 유통데이터 SKU CLASSIFICATION
      - Time Series Data Anomaly Detection 
