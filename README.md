@@ -3,7 +3,7 @@ Hello!
 -     language :  python, scala
 -     skill : machine learning, deeplearning
 -      
-- s
+-
 - 💞️ WORK EXPRIENCE 
 -   EPOPCON : 머신러닝연구 및 데이터분석(2020.07 ~ )
      - 이커머스 유통데이터 SKU CLASSIFICATION
@@ -13,7 +13,7 @@ Hello!
      - 상품 SKU 단위 수주량 분석 및 예측
      - 자재 BOM 단위  발주시기 예측
     
--   REPUBLIC OF KOREA ARMY : 통신 전산 장교(2017.03 ~ 2019.06)
+-   REPUBLIC OF KOREA ARMY : 통신 전산 장교(2017.03 ~ 2019.0
 
 
 - 📫 \
