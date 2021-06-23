@@ -4,7 +4,7 @@ Hello!
 -     skill : machine learning, deeplearning
 -      
 -
-- 💞️ WORK EXPRIENCE 
+- 📫  WORK EXPRIENCE 
 -   EPOPCON : 머신러닝연구 및 데이터분석(2020.07 ~ )
      - 이커머스 유통데이터 SKU CLASSIFICATION (NLP)
      - Time Series Data Anomaly Detection
@@ -16,7 +16,7 @@ Hello!
 -   REPUBLIC OF KOREA ARMY : 통신 전산 장교(2017.03 ~ 2019.06)
 
 
-- 📫 
+
 
 <!---
 BAEintelli/BAEintelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
