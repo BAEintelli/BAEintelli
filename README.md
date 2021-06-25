@@ -8,6 +8,7 @@ Hello!
 -   EPOPCON : 머신러닝연구 및 데이터분석(2020.07 ~ )
      - 이커머스 유통데이터 SKU CLASSIFICATION (NLP)
      - Time Series Data Anomaly Detection
+     -  Airflow 운영
     
 -   AUTOELEX : 데이터 분석가(2019.07 ~ 2020.07)
      - 상품 SKU 단위 수주량 분석 및 예측
