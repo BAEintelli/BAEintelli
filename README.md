@@ -2,6 +2,7 @@ Hello!
 - 🌱 stack
 -     language :  python, scala
 -     skill : machine learning, deeplearning
+-     carrer junior
 -      
 -
 - 📫  WORK EXPRIENCE 
